@@ -1,0 +1,30 @@
+{
+    "pollution": [
+      {
+        "city": "New York",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "pollution_level": 25
+      },
+      {
+        "city": "London",
+        "latitude": 51.509865,
+        "longitude": -0.118092,
+        "pollution_level": 30
+      },
+      {
+        "city": "Beijing",
+        "latitude": 39.9042,
+        "longitude": 116.4074,
+        "pollution_level": 80
+      },
+      {
+        "city": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "pollution_level": 40
+      }
+
+    ]
+  }
+  
